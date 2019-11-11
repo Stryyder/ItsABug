@@ -6,4 +6,5 @@ My son really enjoyed getting involved in the sound and different UX elements al
 
 ### Preview
 [Play Now!](https://itsabug.netlify.com)
+
 <img src="img/preview.png" width="400">
