@@ -6,4 +6,4 @@ My son really enjoyed getting involved in the sound and different UX elements al
 
 ### Preview
 
-<img src="img/preview.png">
+<img src="img/preview.png" width="400">
